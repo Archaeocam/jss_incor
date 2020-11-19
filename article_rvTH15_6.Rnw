@@ -42,14 +42,14 @@ loadfonts(device = "win")
 %% - \title{} in title case
 %% - \Plaintitle{} without LaTeX markup (if any)
 %% - \Shorttitle{} with LaTeX markup (if any), used as running title
-\title{Modelling Prehistorical Iconographic Compositions. The \proglang{R} package \pkg{decorr}}
-\Plaintitle{Modelling Prehistorical Iconographic Compositions. The R package 'decorr'}
-\Shorttitle{Modelling Prehistorical Iconographic Compositions}
+\title{Modelling Prehistoric Iconographic Compositions. The \proglang{R} package \pkg{decorr}}
+\Plaintitle{Modelling Prehistoric Iconographic Compositions. The R package 'decorr'}
+\Shorttitle{Modelling Prehistoric Iconographic Compositions}
 
 %% - \Abstract{} almost as usual
 \Abstract{
-  By definition, Prehistorical societies are characterised by the absence of a writing system. During, the largest part of human history -- from far -- symbolic expressions belong to illiterate societies which express themself with rock-art paintings, pottery decorations, figurines and statuary, etc., and a lot of now disappeared carved woods, textil design, etc. At the composition level, recognition of meaningful associations of signs and reccurent patterns indicate clearly the existence of social conventions in the way to display and to read these expressions.
-  We present the \pkg{decorr} \proglang{R} package which grounds concepts, methods and tools to analyse any ancient graphical systems. Our asumption is that i) any graphical system is a spatial distribution of features, and ii) these features have possibly any meaningful relationships one with another depending on their pairwise spatial proximities. To model the graphical compositions we employ concepts coming from the Graph Theory. To ensure the feasability of this type of analysis, we propose a GIS-based method for inputs and a serie of functions for data management.   
+  By definition, Prehistoric societies are characterised by the absence of a writing system. During most of human history symbolic expressions belonging to non-literate societies  express themselves in rock-art paintings, pottery decorations, figurines and statuary, etc., and also in now-disappeared carved wood, textile designs, etc. At the composition level, recognition of meaningful associations of signs and reccurent patterns indicate clearly the existence of social conventions in ways of displaying and reading these expressions.
+  We present the \pkg{decorr} \proglang{R} package which grounds concepts, methods and tools to analyse any ancient graphical system. Our asumption is that i) any graphical system is a spatial distribution of features, and ii) these features  possibly have meaningful relationships one with another depending on their pairwise spatial proximities. To model the graphical compositions we employ concepts from Graph Theory. To ensure the feasability of this type of analysis, we propose a GIS-based method for inputs and a series of functions for data management.   
 }
 
 \Keywords{Iconography, Prehistory, Graph Theory, Graph Drawing, Spatial Analysis, \proglang{R}}
